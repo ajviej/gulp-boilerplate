@@ -1,0 +1,28 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "Bootstrap,jquery, saas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajviej/gulp-boilerplate.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "jquery",
+    "sass",
+    "html5"
+  ],
+  "author": "Iva Petrovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajviej/gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ajviej/gulp-boilerplate#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
