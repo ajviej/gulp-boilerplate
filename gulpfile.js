@@ -44,6 +44,7 @@ function js() {
     const out = build + '/assets/js'
 
     return gulp.src([
+        'node_modules/jquery/dist/jquery.js',
         src + '/js/**/*'
 
     ])
